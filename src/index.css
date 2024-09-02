@@ -1,0 +1,9 @@
+.dog-img{
+  max-height: 300px;
+  max-width: 400px;
+}
+@media (max-width:576px) {
+  .dog-img{width: 100%;
+  height: auto;}
+}
+.weather-img{ height: 100px;}
