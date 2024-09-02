@@ -1,7 +1,7 @@
 # REACT: EJEMPLO CONEXIÓN A API
 ## APIs
-[DOG API](https://dog.ceo/dog-api/)
-[Open Weather](http://openweathermap.org): Se debe crear cuenta para recibir key por correo.
+- [DOG API](https://dog.ceo/dog-api/)
+- [Open Weather](http://openweathermap.org): Se debe crear cuenta para recibir key por correo.
 ## Paquetes
 ### Bootstrap
 - npm i bootstrap@5.3.3
